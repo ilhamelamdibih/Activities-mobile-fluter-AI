@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193111462403",
+    "project_id": "application-des-activites-mai",
+    "storage_bucket": "application-des-activites-mai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193111462403:android:eb34b278f6aef79aa63436",
+        "android_client_info": {
+          "package_name": "com.example.application_des_activites_mai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8b7_L6dxR1qJ07w2OM-OupeAAi_kAMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
