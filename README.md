@@ -7,7 +7,7 @@ L'application a été testée avec un émulateur Android.
 
 ## État des Lieux des US Développées
 1. Interface de login
-<img src="assets/images/login.png" alt="login" />
+<img src="assets/images/login.png" alt="login" width="300" />
 
 3. Liste des activités
    
